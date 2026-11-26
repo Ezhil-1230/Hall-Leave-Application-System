@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
